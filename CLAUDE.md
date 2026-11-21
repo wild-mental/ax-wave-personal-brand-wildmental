@@ -1,6 +1,6 @@
 # ax-wave-personal-brand-wildmental — 작업 안내
 
-4-3 「개인 브랜드 웹서비스 기획·구현」 교재(인쇄본)와 함께 쓰는 **공개 온라인 자료실** 저장소입니다. 이 파일은 사이트에 나오지 않습니다(`_config.yml` exclude). 이 저장소에서 일을 시작할 때 이 파일과 `_context/RULES.md`를 먼저 읽습니다. 제작 규격은 상위 프로젝트의 비공개 문서 `../docs/4-3/TEXTBOOK_SPEC.md`(§13 온라인 자료실)에 있습니다(이 저장소에는 두지 않음).
+「개인 브랜드 웹서비스 기획·구현」 교재(인쇄본)와 함께 쓰는 **공개 온라인 자료실** 저장소입니다. 이 파일은 사이트에 나오지 않습니다(`_config.yml` exclude). 이 저장소에서 일을 시작할 때 이 파일과 `_context/RULES.md`를 먼저 읽습니다. 제작 규격은 상위 프로젝트의 비공개 문서 `../docs/4-3/TEXTBOOK_SPEC.md`(§13 온라인 자료실)에 있습니다(이 저장소에는 두지 않음).
 
 ## 배경 (2026-11-22)
 
@@ -10,7 +10,7 @@
   - 강사 GitHub 아이디: `wild-mental` (학생이 비공개 저장소에 초대)
   - 학생 작업 폴더이자 비공개 저장소 이름: `personal-brand-site`
 - 강사 결정 (상위 프로젝트 `docs/4-3/TEXTBOOK_SPEC.md` §6~§9 · §13):
-  - 4-3 전용 새 공개 저장소입니다. 4-1 · 4-2 자료실은 건드리지 않습니다.
+  - 이 과목 전용 새 공개 저장소입니다. 「웹서비스 UX/UI 기획」 · 「서비스 아이디어 기획을 위한 데이터 기반 디자인 씽킹」 자료실은 건드리지 않습니다.
   - 사전 과제(12/2 사전 안내와 함께): 학생이 내 컴퓨터에 `personal-brand-site` 폴더를 만들고 텍스트 이력서를 `resume.md`로 저장해 옵니다.
   - 첫날 학생은 비공개 저장소 `personal-brand-site`를 만들고 `worksheet-template/worksheet.md`를 Copy raw file로 붙여 넣은 뒤 `wild-mental`을 초대하고, Download raw file로 작업 폴더에 내려받아 그 파일을 채웁니다. 하루를 마칠 때마다 작업 폴더 안의 파일과 폴더를 모두 Add file → Upload files로 올립니다. Git 명령은 다루지 않습니다.
   - 사이트는 Claude Code가 `public/` 폴더만 Vercel CLI로 프로덕션 배포합니다. Node.js와 Vercel 로그인은 사전 안내에서 준비합니다.

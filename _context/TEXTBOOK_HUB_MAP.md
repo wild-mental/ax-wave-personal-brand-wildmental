@@ -101,5 +101,5 @@
 | `README.md` 「처음 오셨다면」 · 「참고 사례 (공개 페이지)」 · 「가이드 고침 이력」 | 첫 준비 순서, 참고 사례 공개 주소, 가이드를 고친 날짜와 한 줄 | 작성 |
 | `pre-course-notice.md` 5절 | Vercel CLI 확인 · 설치 · 로그인을 Claude Code에 맡기는 준비 지시문 (킷에 없음) | 작성 |
 | `worksheet-template/README.md` | 워크시트 원본 · 텍스트 이력서 양식 시작 안내 | 작성 |
-| `guides/images/` | 가이드 캡처 1곳 (`workspace-repo-setup-guide-1.png`, Claude Code 입력창 아래 줄 — 4-2 자료실과 같은 앱 화면) | 작성 |
+| `guides/images/` | 가이드 캡처 1곳 (`workspace-repo-setup-guide-1.png`, Claude Code 입력창 아래 줄 — 「서비스 아이디어 기획을 위한 데이터 기반 디자인 씽킹」 자료실과 같은 앱 화면) | 작성 |
 | `_context/` | 작성 규칙, 이 매칭표, 가이드 목록(`guides.json`), 점검 · 동기화 스크립트 (사이트에는 안 보임) | 작성 |
